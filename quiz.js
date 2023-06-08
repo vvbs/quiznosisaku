@@ -1,7 +1,7 @@
 var questions = [
   {
-    question: "日本の首都はどこですか？",
-    correct_answer: "東京"
+    question: "自動車が一定の速さ15m/sでまっすぐに進むとき、4.0秒間の移動距離xは何mか。",
+    correct_answer: "60"
   },
   {
     question: "「こんにちは」は英語で何と言いますか？",
