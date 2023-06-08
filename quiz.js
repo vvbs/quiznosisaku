@@ -4,8 +4,8 @@ var questions = [
     correct_answer: "60"
   },
   {
-    question: "「こんにちは」は英語で何と言いますか？",
-    correct_answer: "Hello"
+    question: "10m/sは何km/hか。",
+    correct_answer: "36"
   },
   {
     question: "1+1はいくつですか？",
