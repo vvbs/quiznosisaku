@@ -1,1 +1,1 @@
-# seeeno.quiz
+# quiz
