@@ -1,7 +1,7 @@
 var questions = [
   {
     question: "質量2.0kgの物体が、東向きに1.4m/sの速さで進んでいる。この物体の運動量の大きさを求めよ。",
-    correct_answer: ""
+    correct_answer: "2.8"
   },
   {
     question: "10m/sは何km/hか。",
