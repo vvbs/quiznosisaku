@@ -1,7 +1,7 @@
 var questions = [
   {
-    question: "自動車が一定の速さ15m/sでまっすぐに進むとき、4.0秒間の移動距離xは何mか。",
-    correct_answer: "60"
+    question: "質量2.0kgの物体が、東向きに1.4m/sの速さで進んでいる。この物体の運動量の大きさを求めよ。",
+    correct_answer: ""
   },
   {
     question: "10m/sは何km/hか。",
