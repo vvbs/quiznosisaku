@@ -27,9 +27,9 @@ function checkAnswer() {
 
   if (userAnswer.toLowerCase() === questions[currentQuestion].correct_answer.toLowerCase()) {
     score++;
-    document.getElementById("result").innerHTML = "👌";
+    document.getElementById("result").innerHTML = "正解‼️";
   } else {
-    document.getElementById("result").innerHTML = "😂";
+    document.getElementById("result").innerHTML = "ちがう‼️";
   }
 
   currentQuestion++;
